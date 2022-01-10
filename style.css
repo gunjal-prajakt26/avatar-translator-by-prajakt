@@ -1,0 +1,10 @@
+.output-div {
+    display: block;
+    border: 1px solid;
+    max-width: 60%;
+    width: 40rem;
+    height: 60px;
+    padding: 1rem;
+    margin: 1rem auto 1rem auto;
+    align-items: center;
+}
